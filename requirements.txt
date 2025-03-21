@@ -1,0 +1,22 @@
+Crawl4AI==0.4.247
+python-dotenv==1.0.1
+pydantic==2.10.6
+
+
+Here are the steps to create a Kanban board for your weekly goals tracking:
+
+1. Create a new page in your workspace
+1. Click the "..." menu and select "Board"
+1. Set up your columns (status groups) with these suggested names:
+- Goals for the Week
+- In Progress
+- Accomplished
+- Misses
+- Backlog
+1. Once created, click "..." at the top of your board to customize properties. Add these properties:
+    - Week (Date range)
+    - Reason for Backlog (Text)
+    - Learnings for the Week (Rich text)
+1. You can easily drag cards between columns to update their status
+
+Once you've created the board, you can use AI to help set up the specific properties and structure you need. Just create the board first, then ask AI for help with customization.
